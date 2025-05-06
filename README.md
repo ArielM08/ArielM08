@@ -1,6 +1,8 @@
 ## Welcome! 👋
 
 <p>Olá, me chamo Ariel tenho 17 anos e moro no Ceará</p>
+   • Desenvolvimento de sistemas 🖥️
+   • Aproveite o perfil!
 
 ## 🛠️ Habilidades
 
