@@ -1,4 +1,4 @@
-## Welcone! 👋
+## Welcome! 👋
 
 <p>Olá, me chamo Ariel tenho 17 anos e moro no Ceará</p>
 
