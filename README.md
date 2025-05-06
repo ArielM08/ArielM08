@@ -1,6 +1,8 @@
 ## Welcone! 👋
 
-<p>teste </p>
+<p>Olá, me chamo Ariel tenho 17 anos e moro no Ceará</p>
+
+
 <!--
 **ArielM08/ArielM08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
