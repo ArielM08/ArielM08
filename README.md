@@ -7,6 +7,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+⚡ Uso Arch Linux, BTW! 🐧  
+![Terminal](https://media.giphy.com/media/V4NnsmEY7hsj5ZtOOk/giphy.gif)
 <!--
 **ArielM08/ArielM08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
