@@ -2,7 +2,11 @@
 
 <p>Olá, me chamo Ariel tenho 17 anos e moro no Ceará</p>
 
+## 🛠️ Habilidades
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **ArielM08/ArielM08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
