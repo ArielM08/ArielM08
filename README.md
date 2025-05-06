@@ -14,6 +14,8 @@
 ⚡ Uso Arch Linux, BTW! 🐧  
 ![Terminal](https://imgur.com/ZDaozNr.jpeg)
 
+![Snake](https://github.com/ArielM08/ArielM08/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **ArielM08/ArielM08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
