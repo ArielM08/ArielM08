@@ -14,7 +14,6 @@
 ⚡ Uso Arch Linux, BTW! 🐧  
 ![Terminal](https://imgur.com/ZDaozNr.jpeg)
 
-![Snake](https://github.com/ArielM08/ArielM08/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
