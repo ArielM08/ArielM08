@@ -30,19 +30,15 @@
 
 ## 📫 Como me encontrar
 
-<div style="display: grid; grid-template-columns: minmax(300px, 1fr) 280px; align-items: center; gap: 15px; width: 100%;">
-  <div>
-    ✉️ <strong>Email:</strong> arielmaxkson@outlook.com<br>
-    📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a><br>
-    🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a>
-  </div>
-  
-  <div style="text-align: right;">
-    <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" 
-         style="width: 280px; border-radius: 8px;"
-         alt="coding gif"/>
-  </div>
-</div>
+<img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" 
+     style="width: 240px; float: right; margin: 0 0 15px 15px; border-radius: 8px;" 
+     alt="coding gif"/>
+
+✉️ <strong>Email:</strong> arielmaxkson@outlook.com<br>
+📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a><br>
+🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a>
+
+<div style="clear: both;"></div>
 
 ---
 
