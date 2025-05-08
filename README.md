@@ -37,7 +37,7 @@
 ## 📫 Como me encontrar
 - ✉️ Email: arielmaxkson@outlook.com
 - 📷 Instagram: [@maxkson16](https://instagram.com/maxkson16)
-- 🧠 LinkedIn (opcional): [ariel maxkson](https://linkedin.com/in/ariel-maxkson-b8a717364)
+- 🧠 LinkedIn: [ariel maxkson](https://linkedin.com/in/ariel-maxkson-b8a717364)
 
 ---
 
