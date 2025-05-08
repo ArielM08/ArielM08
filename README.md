@@ -30,7 +30,7 @@
 
 ##
 
-<table>
+<table border="0">
   <tr>
     <td align="left" valign="top" width="60%">
       <h2>📫 Como me encontrar</h2>
