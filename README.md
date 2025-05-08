@@ -40,7 +40,7 @@
     <li>🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a></li>
   </ul>
 </div>
-<div style="display: inline-block; width: 40%; vertical-align: top; text-align: right;">
+<div style="display: inline-block; width: 40%; vertical-align: top text-align: right;">
   <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" width="280" alt="coding gif"/>
 </div>
 
