@@ -30,16 +30,16 @@
 
 ## 📫 Como me encontrar
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; flex-wrap: nowrap; gap: 20px; margin: 0; padding: 0;">
-  <div style="flex: 1 1 60%; min-width: 250px;">
+<div style="display: grid; grid-template-columns: minmax(300px, 1fr) 280px; align-items: center; gap: 15px; width: 100%;">
+  <div>
     ✉️ <strong>Email:</strong> arielmaxkson@outlook.com<br>
     📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a><br>
     🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a>
   </div>
   
-  <div style="flex: 0 0 auto; margin-left: 20px;">
+  <div style="text-align: right;">
     <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" 
-         style="max-width: 240px; width: 100%; border-radius: 8px; display: block;"
+         style="width: 280px; border-radius: 8px;"
          alt="coding gif"/>
   </div>
 </div>
