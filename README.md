@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ⚡ Uso Arch Linux, BTW! 🐧  
-![Terminal](https://imgur.com/ZDaozNr.jpeg)
+![Terminal](https://imgur.com/ydohdBI)
 
 
 
