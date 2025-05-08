@@ -4,7 +4,7 @@
 
 🎓 Tenho 17 anos e curso **Desenvolvimento de Sistemas**  
 💻 Entusiasta de Linux, programação e personalização de sistemas  
-🎮 Apaixonado por jogos, especialmente emuladores como o **Vita3K**  
+🎮 Apaixonado por jogos, especialmente emuladores, **Jogos antigos**  
 🚀 Explorando o mundo do código com Python, shell script e ferramentas open source
 
 ---
@@ -12,23 +12,19 @@
 ## 🛠️ Tecnologias e ferramentas que uso
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Vita3K](https://img.shields.io/badge/Vita3K-FFA500?style=flat&logo=playstation&logoColor=white)
-![Wine](https://img.shields.io/badge/Wine-800000?style=flat&logo=wine&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 📂 Alguns projetos (em breve mais!)
-- 🎮 [Configuração para jogar no Linux com Wine](https://github.com/arielmaxkson/wine-gaming)
-- 🐧 [Scripts para personalizar distros Linux](https://github.com/arielmaxkson/linux-scripts)
-- ⚙️ [Setup automatizado de ambiente de desenvolvimento](https://github.com/arielmaxkson/dev-setup)
+## 🐧 Eu uso arch BTW!)
+![Terminal](https://i.imgur.com/okm6XX8.png)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arielmaxkson&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielmaxkson&layout=compact&theme=tokyonight)
+![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArielM08&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielM08&layout=compact&theme=tokyonight)
 
 ---
 
@@ -39,9 +35,9 @@
 ---
 
 ## 📫 Como me encontrar
-- ✉️ Email: seuemail@example.com
-- 📷 Instagram: [@seuuser](https://instagram.com/seuuser)
-- 🧠 LinkedIn (opcional): [Seu LinkedIn](https://linkedin.com/in/seuuser)
+- ✉️ Email: arielmaxkson@outlook.com
+- 📷 Instagram: [@maxkson16](https://instagram.com/maxkson16)
+- 🧠 LinkedIn (opcional): [ariel maxkson](https://linkedin.com/in/ariel-maxkson-b8a717364)
 
 ---
 
