@@ -41,7 +41,7 @@
        alt="coding gif"/>
 </div>
 
----
+
 
 _“Se você não pode fazer grandes coisas, faça pequenas coisas de forma grandiosa.”_
 
