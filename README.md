@@ -29,19 +29,18 @@
 
 
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="margin-right: -300px; padding-right: 320px;">
-    ✉️ <strong>Email:</strong> arielmaxkson@outlook.com<br>
-    📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a><br>
-    🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a>
-  </div>
-  
-  <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" 
-       style="width: 280px; margin-top: -70px; border-radius: 8px;"
-       alt="coding gif"/>
-</div>
+##
 
+<img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" width="450" alt="coding gif"/>
 
+---
+
+## 📫 Como me encontrar
+- ✉️ Email: arielmaxkson@outlook.com
+- 📷 Instagram: [@maxkson16](https://instagram.com/maxkson16)
+- 🧠 LinkedIn: [ariel maxkson](https://linkedin.com/in/ariel-maxkson-b8a717364)
+
+---
 
 _“Se você não pode fazer grandes coisas, faça pequenas coisas de forma grandiosa.”_
 
