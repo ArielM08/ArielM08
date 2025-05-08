@@ -30,8 +30,6 @@
 
 ##
 
-##
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="width: 60%;">
     <h2>📫 Como me encontrar</h2>
