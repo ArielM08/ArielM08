@@ -30,19 +30,18 @@
 
 ##
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 60%;">
-    <h2>📫 Como me encontrar</h2>
-    <ul>
-      <li>✉️ <strong>Email:</strong> arielmaxkson@outlook.com</li>
-      <li>📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a></li>
-      <li>🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a></li>
-    </ul>
-  </div>
-  <div style="width: 35%; text-align: right;">
-    <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" style="width: 280px;" alt="coding gif"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      ✉️ <strong>Email:</strong> arielmaxkson@outlook.com<br>
+      📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a><br>
+      🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a>
+    </td>
+    <td width="40%" align="right">
+      <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" width="280" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
