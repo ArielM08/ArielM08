@@ -30,21 +30,19 @@
 
 ##
 
-<table border="0">
-  <tr>
-    <td align="left" valign="top" width="60%">
-      <h2>📫 Como me encontrar</h2>
-      <ul>
-        <li>✉️ <strong>Email:</strong> arielmaxkson@outlook.com</li>
-        <li>📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a></li>
-        <li>🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a></li>
-      </ul>
-    </td>
-    <td align="right" valign="top" width="40%">
-      <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" width="300" alt="coding gif"/>
-    </td>
-  </tr>
-</table>
+##
+
+<div style="display: inline-block; width: 58%; vertical-align: top;">
+  <h2>📫 Como me encontrar</h2>
+  <ul>
+    <li>✉️ <strong>Email:</strong> arielmaxkson@outlook.com</li>
+    <li>📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a></li>
+    <li>🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a></li>
+  </ul>
+</div>
+<div style="display: inline-block; width: 40%; vertical-align: top; text-align: right;">
+  <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" width="280" alt="coding gif"/>
+</div>
 
 ---
 
