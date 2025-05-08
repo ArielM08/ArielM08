@@ -1,6 +1,7 @@
 ## Welcome! 👋
 
 Olá! Eu sou o Ariel Maxkson 👋
+
 🎓 Tenho 17 anos e curso **Desenvolvimento de Sistemas**  
 💻 Entusiasta de Linux, programação e personalização de sistemas  
 
