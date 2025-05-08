@@ -32,10 +32,7 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" width="300" alt="coding gif"/>
-    </td>
-    <td>
+    <td valign="top" width="50%">
       <h2>📫 Como me encontrar</h2>
       <ul>
         <li>✉️ <strong>Email:</strong> arielmaxkson@outlook.com</li>
@@ -43,13 +40,15 @@
         <li>🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a></li>
       </ul>
     </td>
+    <td align="right" width="50%">
+      <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" width="300" alt="coding gif"/>
+    </td>
   </tr>
 </table>
 
 ---
 
 _“Se você não pode fazer grandes coisas, faça pequenas coisas de forma grandiosa.”_
-
 
 
 
