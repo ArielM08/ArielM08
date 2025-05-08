@@ -16,7 +16,7 @@
 
 ---
 
-## 🐧 Eu uso arch BTW!)
+## 🐧 Eu uso arch BTW!
 ![Terminal](https://i.imgur.com/okm6XX8.png)
 
 ---
