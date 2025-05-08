@@ -30,7 +30,7 @@
 
 ## 🖼️ Um pouco da vibe
 
-<img src="[https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif]" width="450" alt="coding gif"/>
+<img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" width="450" alt="coding gif"/>
 
 ---
 
