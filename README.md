@@ -1,9 +1,8 @@
 ## Welcome! 👋
 
-<p>Olá, me chamo Ariel tenho 17 anos e moro no Ceará</p>
-   • Desenvolvimento de sistemas 🖥️
-   
-   • Aproveite o perfil!
+Olá! Eu sou o Ariel Maxkson 👋
+🎓 Tenho 17 anos e curso **Desenvolvimento de Sistemas**  
+💻 Entusiasta de Linux, programação e personalização de sistemas  
 
 ## 🛠️ Habilidades
 
@@ -13,6 +12,12 @@
 
 ⚡ Uso Arch Linux, BTW! 🐧  
 ![Terminal](https://i.imgur.com/okm6XX8.png)
+
+
+## 📊 Estatísticas do GitHub
+![Ariel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArielM08&show_icons=true&theme=tokyonight)
+
+
 
 
 
