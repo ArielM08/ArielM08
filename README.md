@@ -28,20 +28,21 @@
 
 ---
 
-##
+## 📫 Como me encontrar
 
-<table>
-  <tr>
-    <td width="60%">
-      ✉️ <strong>Email:</strong> arielmaxkson@outlook.com<br>
-      📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a><br>
-      🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a>
-    </td>
-    <td width="40%" align="right">
-      <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" width="280" alt="coding gif"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; flex-wrap: nowrap; gap: 20px; margin: 0; padding: 0;">
+  <div style="flex: 1 1 60%; min-width: 250px;">
+    ✉️ <strong>Email:</strong> arielmaxkson@outlook.com<br>
+    📷 <strong>Instagram:</strong> <a href="https://instagram.com/maxkson16">@maxkson16</a><br>
+    🧠 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ariel-maxkson-b8a717364">ariel maxkson</a>
+  </div>
+  
+  <div style="flex: 0 0 auto; margin-left: 20px;">
+    <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" 
+         style="max-width: 280px; width: 100%; border-radius: 8px; display: block;"
+         alt="coding gif"/>
+  </div>
+</div>
 
 ---
 
