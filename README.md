@@ -50,7 +50,6 @@
 
 _“Se você não pode fazer grandes coisas, faça pequenas coisas de forma grandiosa.”_
 
-
 <!--
 **ArielM08/ArielM08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
