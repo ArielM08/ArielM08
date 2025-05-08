@@ -39,7 +39,7 @@
   
   <div style="flex: 0 0 auto; margin-left: 20px;">
     <img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" 
-         style="max-width: 280px; width: 100%; border-radius: 8px; display: block;"
+         style="max-width: 240px; width: 100%; border-radius: 8px; display: block;"
          alt="coding gif"/>
   </div>
 </div>
