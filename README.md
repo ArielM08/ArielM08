@@ -17,8 +17,7 @@
 ---
 
 ## 🐧 Eu uso Gentoo BTW!
-![Terminal]([https://imgur.com/a/AC6bxiq](https://imgur.com/a/AC6bxiq)
-)
+![Terminal]([https://imgur.com/a/AC6bxiq]
 
 
 ---
