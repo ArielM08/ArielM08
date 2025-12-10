@@ -16,8 +16,10 @@
 
 ---
 
-## 🐧 Eu uso arch BTW!
-![Terminal](https://i.imgur.com/okm6XX8.png)
+## 🐧 Eu uso Gentoo BTW!
+![Terminal](https://imgur.com/a/AC6bxiq
+)
+
 
 ---
 
